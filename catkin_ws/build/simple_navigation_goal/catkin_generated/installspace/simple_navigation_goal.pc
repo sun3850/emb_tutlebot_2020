@@ -1,0 +1,8 @@
+prefix=/home/hyeon/catkin_ws/install
+
+Name: simple_navigation_goal
+Description: Description of simple_navigation_goal
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/hyeon/catkin_ws/devel
+
+Name: xycar_simul
+Description: Description of xycar_simul
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
